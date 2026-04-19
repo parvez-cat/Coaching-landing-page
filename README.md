@@ -1,6 +1,6 @@
 ## 🔗 Live Demo
 
-👉 https://your-username.github.io/your-repo-name/
+👉 https://parvez-cat.github.io/Coaching-landing-page/
 
 ---
 
